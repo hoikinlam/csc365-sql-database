@@ -1,0 +1,11 @@
+-- Hoikin Lam hlam13@calpoly.edu
+
+SET FOREIGN_KEY_CHECKS = 0;
+
+DROP TABLE IF EXISTS Flights;
+
+DROP TABLE IF EXISTS Airports100;
+
+DROP TABLE IF EXISTS Airlines;
+
+SET FOREIGN_KEY_CHECKS = 1;

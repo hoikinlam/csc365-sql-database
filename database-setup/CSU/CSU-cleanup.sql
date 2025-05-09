@@ -1,0 +1,19 @@
+-- Hoikin Lam hlam13@calpoly.edu
+
+SET FOREIGN_KEY_CHECKS = 0;
+
+DROP TABLE IF EXISTS Discipline_Enrollments;
+
+DROP TABLE IF EXISTS CSU_Fees;
+
+DROP TABLE IF EXISTS Degrees;
+
+DROP TABLE IF EXISTS Enrollments;
+
+DROP TABLE IF EXISTS Faculty;
+
+DROP TABLE IF EXISTS Disciplines;
+
+DROP TABLE IF EXISTS Campuses;
+
+SET FOREIGN_KEY_CHECKS = 1;

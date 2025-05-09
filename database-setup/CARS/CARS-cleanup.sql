@@ -1,0 +1,17 @@
+-- Hoikin Lam hlam13@calpoly.edu
+
+SET FOREIGN_KEY_CHECKS = 0;
+
+DROP TABLE IF EXISTS Cars_Data;
+
+DROP TABLE IF EXISTS Car_Names;
+
+DROP TABLE IF EXISTS Model_List;
+
+DROP TABLE IF EXISTS Car_Makers;
+
+DROP TABLE IF EXISTS Countries;
+
+DROP TABLE IF EXISTS Continents;
+
+SET FOREIGN_KEY_CHECKS = 1;

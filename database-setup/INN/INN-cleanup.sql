@@ -1,0 +1,9 @@
+-- Hoikin Lam hlam13@calpoly.edu
+
+SET FOREIGN_KEY_CHECKS = 0;
+
+DROP TABLE IF EXISTS Reservations;
+
+DROP TABLE IF EXISTS Rooms;
+
+SET FOREIGN_KEY_CHECKS = 1;

@@ -1,0 +1,5 @@
+Hoikin Lam - hlam13@calpoly.edu
+
+CSU - Query 1 
+    - Lab365 potentially incorrect enrollment # for CSU Channel Islands, my SQL outputs everything as followed except CSU Channel Island
+

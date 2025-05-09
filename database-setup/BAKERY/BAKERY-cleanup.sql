@@ -1,0 +1,13 @@
+-- Hoikin Lam hlam13@calpoly.edu
+
+SET FOREIGN_KEY_CHECKS = 0;
+
+DROP TABLE IF EXISTS Items;
+
+DROP TABLE IF EXISTS Receipts;
+
+DROP TABLE IF EXISTS Goods;
+
+DROP TABLE IF EXISTS Customers;
+
+SET FOREIGN_KEY_CHECKS = 1;

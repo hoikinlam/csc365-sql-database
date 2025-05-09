@@ -1,0 +1,12 @@
+-- Hoikin Lam hlam13@calpoly.edu
+
+SET FOREIGN_KEY_CHECKS = 0;
+
+DROP TABLE IF EXISTS Wine;
+
+DROP TABLE IF EXISTS Grapes;
+
+DROP TABLE IF EXISTS Appelations;
+
+SET FOREIGN_KEY_CHECKS = 1;
+

@@ -1,0 +1,7 @@
+-- Hoikin Lam hlam13@calpoly.edu
+
+SET FOREIGN_KEY_CHECKS = 0;
+
+DROP TABLE IF EXISTS Marathon;
+
+SET FOREIGN_KEY_CHECKS = 1;
